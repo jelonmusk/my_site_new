@@ -71,16 +71,6 @@ EOT;
                   <a class="dropdown-item" href="http://localhost/my_site_new/estuff/index.php">E-Stuff</a>
                 </div>
               </li>
-                <!--<li class="nav-item dropdown last">
-                <a class="nav-link dropdown-toggle" href="#" id="user" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Account
-                </a>
-                <div class="dropdown-menu" aria-labelledby="user">
-                  <a class="dropdown-item" href="#">Profile</a>
-                  <a class="dropdown-item" href="#">My Orders</a>
-                  <a class="dropdown-item" href="#">Log Out</a>
-                </div>
-              </li>-->
                 <?php echo $profile;  ?>
             </ul>                      
           </div>
