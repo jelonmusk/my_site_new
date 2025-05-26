@@ -51,4 +51,3 @@ Here’s a summary of the tech stack and steps to run it locally using WAMP:
 - If you encounter errors, check for missing dependencies or PHP extensions in WAMP.
 - If there’s a README or INSTALL file in the repo, follow any extra steps mentioned.
 
-Would you like a specific walkthrough for setting up the database or configuring the PHP files? If you share the project structure or config file, I can give detailed help!
